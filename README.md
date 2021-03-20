@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+### 简介
 
-You can use the [editor on GitHub](https://github.com/sds-service/sds/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+我们是位于爱丁堡的专业华人装修团队，专门为在爱丁堡以及旁边城市的华人家庭、公司、餐馆、商店、酒店进行室内以及室外的装修、翻修、设施维护、维修、翻新和保养。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 主要服务范围
 
-### Markdown
++ 翻新 维修 各种条件的 Flat 和 House （厨房 洗手间 卧室 客厅）
++ 维修各式水管
++ 安装各式 家电 家具
++ 室内 室外 墙壁粉刷
++ 翻新 更换 地板   
++ 清洗 更换 地毯
++ 花园清洁以及搭建各式的木质台阶、储藏室
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 服务装修效果图
 
-```markdown
-Syntax highlighted code block
+![001](assets/img/decoration_effects_01.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+![002](assets/img/decoration_effects_02.jpg)
 
-- Bulleted
-- List
+![003](assets/img/decoration_effects_03.jpg)
 
-1. Numbered
-2. List
+![004](assets/img/decoration_effects_04.jpg)
 
-**Bold** and _Italic_ and `Code` text
+### 质量保证
 
-[Link](url) and ![Image](src)
-```
+我们的全部服务项目都受到有正规的商业保险的保护， 同时我们的服务会提供90天的质量保证（根据工程的实际情况， 在评估报价的时候详细协商）。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 联系方式
 
-### Jekyll Themes
+我们免费对工程进行上门评估报价和协商。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sds-service/sds/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
++ 联系电话： 07869090029
++ 电子邮件：s.d.services666@gmail.com
 
-### Support or Contact
+微信二维码：
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![wechat_qr_code](assets/img/wechat_qr_code.jpg)
+
+
+

@@ -35,6 +35,7 @@
 + 联系电话：[07869090029](tel:07869090029)
 + 电子邮件：[s.d.services666@gmail.com](mailto:s.d.services666@gmail.com)
 + 微信二维码：
+
   ![wechat_qr_code](assets/img/wechat_qr_code.jpg)
 
 
